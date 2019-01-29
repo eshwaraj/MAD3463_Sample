@@ -1,2 +1,7 @@
-Hello Teacher 
-Arturo G.
+Student ID   : C0755032
+Student Nane : Arturo G.
+Topic Descrip: Learning Git commands
+Topic Date   : 2019-01-29
+Topic Detail :
+
+Hello Teacher, 
